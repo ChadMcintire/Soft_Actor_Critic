@@ -1,7 +1,3 @@
-
-
-
-
 Example arguments
 
 #For the Gaussian Model

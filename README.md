@@ -1,1 +1,4 @@
-# RL_Resources_and_Examples
+Soft Actor-Critic
+=================
+
+#put pseudo code and reference here
